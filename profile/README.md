@@ -1,7 +1,7 @@
 <div align="center">
   
 # @Wine & Appsolute
-Wine & Appsolute는 웹 개발 동아리 [**Wine**](https://github.com/webisnoteasy)과 앱 개발 동아리 **Appsolute**가 연합하여 구성된 팀입니다.
+Wine & Appsolute는 웹 개발 동아리 [**Wine**](https://github.com/webisnoteasy)과 앱 개발 동아리 [**Appsolute**]()가 연합하여 구성된 팀입니다.
 
 <br>
 
