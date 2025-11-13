@@ -14,14 +14,6 @@ Wine & Appsolute는 웹 개발 동아리 [**Wine**](https://github.com/webisnote
 
 <br>
 
-### 🌳 역사의 고서, 경소위키
-<a href="https://github.com/WineAndAppsolute/GYEONGSOWIKI_WEB_FE">
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://ghrs.vercel.app/api/pin/?username=WineAndAppsolute&repo=GYEONGSOWIKI_WEB_FE&theme=github_dark"/>
-  <img alt="GYEONGSOWIKI_WEB_FE" src="https://ghrs.vercel.app/api/pin/?username=WineAndAppsolute&repo=GYEONGSOWIKI_WEB_FE">
-</picture>
-</a>
-
 
 
 </div>
